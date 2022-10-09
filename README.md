@@ -7,10 +7,10 @@
 
 dependency | version
 --- | ---
-react | ^17.0.1
-react-dom | ^17.0.1
-styled-components | ^5.2.1
-prettier | ^2.2.1
+react | ^18.2.0
+react-dom | ^18.2.0
+styled-components | ^5.3.6
+prettier | ^2.7.1
 
 ## 🤹‍♂️ Usage
 ```
